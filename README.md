@@ -1,3 +1,1 @@
-# flashcard
-
-A new Flutter project.
+Flashy Learn – A modern, interactive flashcard quiz application built with Flutter. Featuring smooth 3D flip animations, swipeable card navigation, and a premium Material 3 "Warm Academic" aesthetic. Includes full CRUD capabilities for custom card management and reliable local persistence using SharedPreferences.
